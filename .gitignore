@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.agents/
+.codex/
+
+# Large local analysis artifacts
+*.h5
+*.h5ad
+*.h5seurat
+*.loom
+*.rds
+*.mtx
+*.mtx.gz
+*.csv.gz
+*.tsv.gz
